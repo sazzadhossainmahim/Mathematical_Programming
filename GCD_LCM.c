@@ -23,3 +23,5 @@ int main()
     printf("LCM of %d and %d is %d ", a, b, lcm(a, b)); 
     return 0; 
 } 
+
+
